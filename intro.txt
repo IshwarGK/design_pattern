@@ -1,0 +1,15 @@
+Here are a few design patterns that are commonly used in Python:
+
+Singleton Pattern: The Singleton pattern ensures that a class has only one instance throughout the application and provides a global point of access to it.
+
+Factory Pattern: The Factory pattern provides an interface for creating objects without specifying their concrete classes. It allows the client code to create objects by calling a common factory method.
+
+Observer Pattern: The Observer pattern establishes a one-to-many relationship between objects, where changes in one object are automatically notified to and updated in the dependent objects.
+
+Decorator Pattern: The Decorator pattern allows behavior to be added to an object dynamically. It provides a flexible alternative to subclassing for extending the functionality of objects.
+
+Iterator Pattern: The Iterator pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
+Strategy Pattern: The Strategy pattern enables the definition of a family of algorithms, encapsulating each one and making them interchangeable. It allows the algorithm to be selected at runtime.
+
+These are just a few examples, and there are many more design patterns you can explore. Each pattern has its own use cases and benefits, and understanding them can greatly enhance your software design skills.
